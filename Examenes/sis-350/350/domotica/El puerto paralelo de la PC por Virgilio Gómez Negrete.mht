@@ -1,0 +1,1619 @@
+From: <Guardado por Windows Internet Explorer 8>
+Subject: =?Windows-1252?Q?El_puerto_paralelo_de_la_PC_por_Virgilio_G=F3mez_Negrete?=
+Date: Fri, 24 Sep 2010 15:55:33 -0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01CB5C00.EBA31500"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01CB5C00.EBA31500
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.modelo.edu.mx/univ/virtech/circuito/paralelo.htm
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>El puerto paralelo de la PC por Virgilio G=F3mez =
+Negrete</TITLE>
+<META name=3D"Programaci=F3n en C/C++ por Virgilio G=F3mez"=20
+content=3D"Computers &amp; Technology:Programming">
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DAuthor content=3D"Virgilio G=F3mez Negrete">
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18702">
+<META name=3DDESCRIPTION=20
+content=3D"Programacion en lenguajes C y C++ para entorno convencional y =
+plataforma Windows 9x, programaci=F3n orientada a objetos y dise=F1o de =
+circuitos electr=F3nicos. Autor: Virgilio G=F3mez Negrete">
+<META name=3DKEYWORDS=20
+content=3D"Virgilio, G=F3mez, Programacion, lenguaje C, lenguaje C++, =
+lenguaje C plus-plus, electr=F3nica, dise=F1o, OOP, C, C++, circuitos, =
+tutoriales, cursos, teor=EDa"><LINK=20
+rel=3Dstylesheet type=3Dtext/css=20
+href=3D"http://www.modelo.edu.mx/univ/virtech/css/prograc.css"></HEAD>
+<BODY =
+background=3Dhttp://www.modelo.edu.mx/univ/virtech/imagen/fondo.gif=20
+aLink=3D#ff0000 link=3D#0000ff bgColor=3D#ffffff text=3D#000000 =
+vLink=3D#800080><A=20
+name=3D#superior>&nbsp;</A>=20
+<TABLE border=3D0 width=3D760>
+  <TBODY>
+  <TR>
+    <TD width=3D120 align=3Dmiddle><FONT color=3D#000000=20
+      face=3DVerdana,Arial;Helvetica>Versi=F3n 3.0</FONT> </TD>
+    <TD width=3D620 =
+align=3Dmiddle><!--#geoguide--></TD></TR></TBODY></TABLE>
+<P>
+<TABLE border=3D0 width=3D760>
+  <TBODY>
+  <TR>
+    <TD width=3D120 align=3Dmiddle><FONT color=3D#000000 size=3D2=20
+      face=3D"Verdana, Arial">800x600 m=EDnimo</FONT> </TD>
+    <TD width=3D620 align=3Dmiddle><IMG alt=3D""=20
+      src=3D"http://www.modelo.edu.mx/univ/virtech/imagen/bandera2.gif" =
+width=3D600=20
+      height=3D20></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellPadding=3D10 width=3D770>
+  <TBODY>
+  <TR>
+    <TD vAlign=3Dtop><FONT size=3D1 face=3DVerdana,Arial><B>En esta=20
+      lecci=F3n:</B><BR><BR><!--Links--><A=20
+      =
+href=3D"http://www.modelo.edu.mx/univ/virtech/circuito/paralelo.htm#uno">=
+Conceptos=20
+      b=E1sicos</A><BR>-----<BR><A=20
+      =
+href=3D"http://www.modelo.edu.mx/univ/virtech/circuito/paralelo.htm#dos">=
+El=20
+      handshaking</A><BR>-----<BR><A=20
+      =
+href=3D"http://www.modelo.edu.mx/univ/virtech/circuito/paralelo.htm#tres"=
+>El=20
+      hardware del puerto paralelo</A><BR>-----<BR><A=20
+      =
+href=3D"http://www.modelo.edu.mx/univ/virtech/circuito/paralelo.htm#cuatr=
+o">Interfaz=20
+      para el puerto paralelo</A><BR>-----<BR><A=20
+      =
+href=3D"http://www.modelo.edu.mx/univ/virtech/circuito/paralelo.htm#cinco=
+">Escribiendo=20
+      datos al puerto</A><BR>-----<BR><A=20
+      =
+href=3D"http://www.modelo.edu.mx/univ/virtech/circuito/paralelo.htm#seis"=
+>Descargas</A><BR>-----<BR><BR><BR><B>Otras=20
+      secciones:</B><BR><BR><A=20
+      =
+href=3D"http://www.modelo.edu.mx/univ/virtech/frontal/basico.htm">Concept=
+os=20
+      b=E1sicos</A><BR>-----<BR><A=20
+      =
+href=3D"http://www.modelo.edu.mx/univ/virtech/frontal/progc.htm">Programa=
+ndo=20
+      en C</A><BR>-----<BR><A=20
+      =
+href=3D"http://www.modelo.edu.mx/univ/virtech/frontal/progcpp.htm">Progra=
+mando=20
+      en C++</A><BR>-----<BR><A=20
+      =
+href=3D"http://www.modelo.edu.mx/univ/virtech/frontal/progwin.htm">Progra=
+mando=20
+      Windows 9x.</A><BR>-----<BR><A=20
+      =
+href=3D"http://www.modelo.edu.mx/univ/virtech/frontal/telec.htm">Teor=EDa=
+=20
+      electr=F3nica</A><BR>-----<BR><A=20
+      =
+href=3D"http://www.modelo.edu.mx/univ/virtech/frontal/cirele.htm">Circuit=
+os=20
+      electr=F3nicos</A><BR>-----<BR><A=20
+      =
+href=3D"http://www.modelo.edu.mx/univ/virtech/frontal/labhtml.htm">Activi=
+dades=20
+      adicionales</A><BR>-----<BR><A=20
+      =
+href=3D"http://www.modelo.edu.mx/univ/virtech/frontal/link.htm">Hiperv=ED=
+nculos</A><BR>-----<BR><BR><BR><B>Cont=E1cteme:</B><BR><BR><A=20
+      href=3D"mailto:virgiliotech@yahoo.com">Dudas y=20
+      comentarios</A><BR>-----<BR><BR><BR></FONT></TD>
+    <TD width=3D620><FONT size=3D2 face=3DVerdana,Arial><!--Texto =
+principal aqu=ED-->
+      <H1>El puerto paralelo de la PC</H1><IMG alt=3D"Hola mundo"=20
+      src=3D"http://www.modelo.edu.mx/univ/virtech/imagen/linea.gif" =
+width=3D620=20
+      height=3D1>=20
+      <P align=3Djustify><B>PRECAUCION:</B><I>&nbsp;Conectar =
+dispositivos al=20
+      puerto paralelo implica el riesgo de da=F1os permanentes a la =
+tarjeta madre=20
+      de la PC, tenga siempre presente que a=FAn los profesionales =
+cometen=20
+      errores, por lo tanto no est=E1 de m=E1s recomendarle extremo =
+cuidado al=20
+      trabajar en el puerto paralelo. Lea el contenido total de =E9ste =
+art=EDculo y=20
+      aseg=FArese de comprenderlo cabalmente. Se recomiendan =
+conocimientos s=F3lidos=20
+      en electr=F3nica y programaci=F3n para manipular el puerto =
+paralelo. =C9ste=20
+      art=EDculo tiene el car=E1cter de informar exclusivamente, si =
+bi=E9n el material=20
+      presentado refleja fielmente las pr=E1cticas y resultados =
+obtenidos en mi=20
+      computadora, Yo, Jaime Virgilio G=F3mez Negrete no asumo =
+responsabilidad=20
+      alguna por el uso =F3 mal uso que se le d=E9 a lo descrito en =
+=E9ste=20
+      art=EDculo.</I>
+      <P><IMG alt=3D"Hola mundo"=20
+      src=3D"http://www.modelo.edu.mx/univ/virtech/imagen/linea.gif" =
+width=3D620=20
+      height=3D1>=20
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Los puertos de =
+comunicaci=F3n=20
+      de la PC son de particular inter=E9s para el estudioso de la =
+electr=F3nica ya=20
+      que le permiten utilizar una computadora personal para controlar =
+todo tipo=20
+      circuitos electr=F3nicos utilizados, principalmente, en =
+actividades de=20
+      automatizaci=F3n de procesos, adquicisi=F3n de datos, tareas =
+repetitivas y=20
+      otras actividades que demandan precisi=F3n. =C9ste art=EDculo es =
+el primero de=20
+      una serie que analizar=E1 diversos usos para el puerto paralelo de =
+la=20
+PC.</P>
+      <H1>Conceptos b=E1sicos<A name=3Duno>&nbsp;</A></H1>
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Existen dos =
+m=E9todos b=E1sicos=20
+      para transmisi=F3n de datos en las computadoras modernas. En un =
+esquema de=20
+      transmisi=F3n de datos en <B>serie</B> un dispositivo env=EDa =
+datos a otro a=20
+      raz=F3n de un bit a la vez a trav=E9s de un cable. Por otro lado, =
+en un=20
+      esquema de transmisi=F3n de datos en <B>paralelo</B> un =
+dispositivo env=EDa=20
+      datos a otro a una tasa de <I>n</I> n=FAmero de bits a trav=E9s de =
+<I>n</I>=20
+      n=FAmero de cables a un tiempo. Ser=EDa f=E1cil pensar que un =
+sistema en=20
+      <I>paralelo</I> es <I>n</I> veces m=E1s r=E1pido que un sistema en =
+
+      <I>serie</I>, sin embargo =E9sto no se cumple, b=E1sicamente el =
+impedimiento=20
+      principal es el tipo de cable que se utiliza para interconectar =
+los=20
+      equipos. Si bi=E9n un sistema de comunicaci=F3n en paralelo puede =
+utilizar=20
+      cualquier n=FAmero de cables para transmitir datos, la mayor=EDa =
+de los=20
+      sistemas paralelos utilizan ocho l=EDneas de datos para transmitir =
+un byte a=20
+      la vez, como en todo, existen excepciones, por ejemplo el =
+est=E1ndar SCSI=20
+      permite transferencia de datos en esquemas que van desde los ocho =
+bits y=20
+      hasta los treinta y dos bits en paralelo. En =E9ste art=EDculo nos =
+
+      concentraremos en transferencias de ocho bits ya que =E9sta es la=20
+      configuraci=F3n del puerto paralelo de una PC.<BR>Un t=EDpico =
+sistema de=20
+      comunicaci=F3n en paralelo puede ser de una direcci=F3n=20
+      (<I>unidireccional</I>) o de dos direcciones =
+(<I>bidireccional</I>). El=20
+      m=E1s simple mecanismo utilizado en un puerto paralelo de una PC =
+es de tipo=20
+      unidireccional y es el que analizaremos en primer lugar. =
+Distinguimos dos=20
+      elementos: la <I>parte transmisora</I> y la <I>parte =
+receptora</I>. La=20
+      parte transmisora coloca la informaci=F3n en las <I>l=EDneas de =
+datos</I> e=20
+      informa a la parte receptora que la informaci=F3n (los datos) =
+est=E1n=20
+      disponibles; entonces la parte receptora lee la informaci=F3n en =
+las l=EDneas=20
+      de datos e informa a la parte transmisora que ha tomado la =
+informaci=F3n=20
+      (los datos). Observe que =E1mbas partes sincronizan su respectivo =
+acceso a=20
+      las l=EDneas de datos, la parte receptora no leer=E1 las l=EDneas =
+de datos hasta=20
+      que la parte transmisora se lo indique en tanto que la parte =
+transmisora=20
+      no colocar=E1 nueva informaci=F3n en las l=EDneas de datos hasta =
+que la parte=20
+      receptora remueva la informaci=F3n y le indique a la parte =
+transmisora que=20
+      ya ha tomado los datos, a =E9sta coordinaci=F3n de operaciones se =
+le llama=20
+      <I>acuerdo</I> =F3 <I>entendimiento</I>. Bi=E9n, en =E9stos =
+=E1mbitos tecnol=F3gicos=20
+      es recomendable utilizar ciertas palabras en ingl=E9s que nos =
+permiten=20
+      ir=F3nicamente un mejor entendimiento de los conceptos tratados. =
+Repito: a=20
+      la coordinaci=F3n de operaciones entre la parte transmisora y la =
+parte=20
+      receptora se le llama <B>handshaking</B>, que en espa=F1ol es el =
+acto con el=20
+      cual dos partes manifiestan estar de acuerdo, es decir, se dan un =
+apret=F3n=20
+      de manos.</P>
+      <H2>El handshaking<A name=3Ddos>&nbsp;</A></H2>
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para implementar =
+el=20
+      <I>handshaking</I> se requieren dos l=EDneas adicionales. La =
+l=EDnea de=20
+      <B>estroboscopio</B> (en ingl=E9s <I>strobe</I>) es la que utiliza =
+la parte=20
+      transmisora para indicarle a la parte receptora la disponibilidad =
+de=20
+      informaci=F3n. La l=EDnea de <B>admisi=F3n</B> =
+(<I>acknowledge</I>) es la que=20
+      utiliza la parte receptora para indicarle a la parte transmisora =
+que ha=20
+      tomado la informaci=F3n (los datos) y que est=E1 lista para =
+recibir m=E1s datos.=20
+      El puerto paralelo provee de una tercera l=EDnea de handshaking =
+llamada en=20
+      ingl=E9s <B>busy</B> (<I>ocupado</I>), =E9sta la puede utilizar la =
+parte=20
+      receptora para indicarle a la parte transmisora que est=E1 ocupada =
+y por lo=20
+      tanto la parte transmisora no debe intentar colocar nueva =
+informaci=F3n en=20
+      las l=EDneas de datos. Una t=EDpica sesi=F3n de transmisi=F3n de =
+datos se parece a=20
+      lo siguiente:</P>
+      <P align=3Djustify><B>Parte transmisora:</B><BR>
+      <LI>La parte transmisora checa la l=EDnea <I>busy</I> para ver si =
+la parte=20
+      receptora est=E1 ocupada. Si la l=EDnea <I>busy</I> est=E1 activa, =
+la parte=20
+      transmisora espera en un bucle hasta que la l=EDnea <I>busy</I> =
+est=E9=20
+      inactiva.<BR>
+      <LI>La parte transmisora coloca la informaci=F3n en las l=EDneas =
+de datos.<BR>
+      <LI>La parte transmisora activa la l=EDnea de <I>strobe</I>.<BR>
+      <LI>La parte transmisora espera en un bucle hasta que la l=EDnea=20
+      <I>acknowledge</I> est=E1 activa.<BR>
+      <LI>La parte transmisora inactiva la l=EDnea de <I>strobe</I>.<BR>
+      <LI>La parte transmisora espera en un bucle hasta que la l=EDnea=20
+      <I>acknowledge</I> est=E9 inactiva.<BR>
+      <LI>La parte transmisora repite los pasos anteriores por cada byte =
+a ser=20
+      transmitido.
+      <P></P>
+      <P align=3Djustify><B>Parte receptora:</B><BR></P>
+      <LI>La parte receptora inactiva la l=EDnea <I>busy</I> (asumiendo =
+que est=E1=20
+      lista para recibir informaci=F3n).<BR>
+      <LI>La parte receptora espera en un bucle hasta que la l=EDnea =
+<I>strobe</I>=20
+      est=E9 activa.<BR>
+      <LI>La parte receptora lee la informaci=F3n de las l=EDneas de =
+datos (y si es=20
+      necesario, procesa los datos).<BR>
+      <LI>La parte receptora activa la l=EDnea <I>acknowledge</I>.<BR>
+      <LI>La parte receptora espera en un bucle hasta que est=E9 =
+inactiva la l=EDnea=20
+      de <I>strobe</I>.<BR>
+      <LI>La parte receptora inactiva la l=EDnea <I>acknowledge</I>.<BR>
+      <LI>La parte receptora repite los pasos anteriores por cada byte =
+que debe=20
+      recibir.
+      <P></P>
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Se debe ser muy =
+cuidadoso=20
+      al seguir =E9stos pasos, tanto la parte transmisora como la =
+receptora=20
+      coordinan sus acciones de tal manera que la parte transmisora no =
+intentar=E1=20
+      colocar varios bytes en las l=EDneas de datos, en tanto que la =
+parte=20
+      receptora no debe leer m=E1s datos que los que le env=EDe la parte =
+
+      transmisora, un byte a la vez.</P>
+      <P align=3Dright><A=20
+      =
+href=3D"http://www.modelo.edu.mx/univ/virtech/circuito/paralelo.htm#super=
+ior">Volver=20
+      al principio</A></P><IMG alt=3D"Hola mundo"=20
+      src=3D"http://www.modelo.edu.mx/univ/virtech/imagen/linea.gif" =
+width=3D620=20
+      height=3D1>=20
+      <H1>El hardware del puerto paralelo<A name=3Dtres>&nbsp;</A></H1>
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El puerto =
+paralelo de una=20
+      t=EDpica PC utiliza un conector hembra de tipo D de 25 patitas =
+(DB-25 S),=20
+      =E9ste es el caso m=E1s com=FAn, sin embargo es conveniente =
+mencionar los tres=20
+      tipos de conectores definidos por el est=E1ndar <B>IEEE 1284</B>, =
+el=20
+      primero, llamado <B>1284 tipo A</B> es un conector hembra de 25 =
+patitas de=20
+      tipo D, es decir, el que mencionamos al principio. El orden de las =
+patitas=20
+      del conector es =E9ste:</P><IMG=20
+      alt=3D"Vista del conector DB-25 hembra que utiliza el puerto =
+paralelo"=20
+      src=3D"http://www.modelo.edu.mx/univ/virtech/imagen/db25.gif" =
+width=3D362=20
+      height=3D114>=20
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El segundo =
+conector se=20
+      llama <B>1284 tipo B</B> que es un conector de 36 patitas de tipo=20
+      <I>centronics</I> y lo encontramos en la mayor=EDa de las =
+impresoras; el=20
+      tercero se denomina <B>1284 tipo C</B>, se trata de un conector =
+similar al=20
+      1284 tipo B pero m=E1s peque=F1o, adem=E1s se dice que tiene =
+mejores propiedades=20
+      el=E9ctricas y mec=E1nicas, =E9ste conector es el recomendado para =
+nuevos=20
+      dise=F1os. La siguiente tabla describe la funci=F3n de cada patita =
+del=20
+      conector 1284 tipo A:</P>
+      <TABLE border=3D1 width=3D"100%">
+        <TBODY>
+        <TR>
+          <TD align=3Dmiddle><B>Patita</B></TD>
+          <TD align=3Dmiddle><B>E/S</B></TD>
+          <TD align=3Dmiddle><B>Polaridad activa</B></TD>
+          <TD align=3Dmiddle><B>Descripci=F3n</B></TD></TR>
+        <TR>
+          <TD align=3Dmiddle>1</TD>
+          <TD align=3Dmiddle>Salida</TD>
+          <TD align=3Dmiddle>0</TD>
+          <TD align=3Dmiddle>Strobe</TD></TR>
+        <TR>
+          <TD align=3Dmiddle>2 ~ 9</TD>
+          <TD align=3Dmiddle>Salida</TD>
+          <TD align=3Dmiddle>-</TD>
+          <TD align=3Dmiddle>L=EDneas de datos<BR><FONT size=3D1>(bit =
+0/patita 2,=20
+            bit 7/patita 9)</FONT></TD></TR>
+        <TR>
+          <TD align=3Dmiddle>10</TD>
+          <TD align=3Dmiddle>Entrada</TD>
+          <TD align=3Dmiddle>0</TD>
+          <TD align=3Dmiddle>L=EDnea acknowledge<BR><FONT =
+size=3D1>(activa cuando el=20
+            sistema remoto toma datos)</FONT></TD></TR>
+        <TR>
+          <TD align=3Dmiddle>11</TD>
+          <TD align=3Dmiddle>Entrada</TD>
+          <TD align=3Dmiddle>0</TD>
+          <TD align=3Dmiddle>L=EDnea busy<BR><FONT size=3D1>(si est=E1 =
+activa, el=20
+            sistema remoto no acepta datos)</FONT></TD></TR>
+        <TR>
+          <TD align=3Dmiddle>12</TD>
+          <TD align=3Dmiddle>Entrada</TD>
+          <TD align=3Dmiddle>1</TD>
+          <TD align=3Dmiddle>L=EDnea Falta de papel<BR><FONT =
+size=3D1>(si est=E1=20
+            activa, falta papel en la impresora)</FONT></TD></TR>
+        <TR>
+          <TD align=3Dmiddle>13</TD>
+          <TD align=3Dmiddle>Entrada</TD>
+          <TD align=3Dmiddle>1</TD>
+          <TD align=3Dmiddle>L=EDnea Select<BR><FONT size=3D1>(si est=E1 =
+activa, la=20
+            impresora se ha seleccionado)</FONT></TD></TR>
+        <TR>
+          <TD align=3Dmiddle>14</TD>
+          <TD align=3Dmiddle>Salida</TD>
+          <TD align=3Dmiddle>0</TD>
+          <TD align=3Dmiddle>L=EDnea Autofeed<BR><FONT size=3D1>(si =
+est=E1 activa, la=20
+            impresora inserta una nueva<BR>l=EDnea por cada retorno de=20
+            carro)</FONT></TD></TR>
+        <TR>
+          <TD align=3Dmiddle>15</TD>
+          <TD align=3Dmiddle>Entrada</TD>
+          <TD align=3Dmiddle>0</TD>
+          <TD align=3Dmiddle>L=EDnea Error<BR><FONT size=3D1>(si est=E1 =
+activa, hay un=20
+            error en la impresora)</FONT></TD></TR>
+        <TR>
+          <TD align=3Dmiddle>16</TD>
+          <TD align=3Dmiddle>Salida</TD>
+          <TD align=3Dmiddle>0</TD>
+          <TD align=3Dmiddle>L=EDnea Init<BR><FONT size=3D1>(Si se =
+mantiene activa=20
+            por al menos 50<BR>micro-segundos, =E9sta =
+se=F1al<BR>autoinicializa la=20
+            impresora)</FONT></TD></TR>
+        <TR>
+          <TD align=3Dmiddle>17</TD>
+          <TD align=3Dmiddle>Salida</TD>
+          <TD align=3Dmiddle>0</TD>
+          <TD align=3Dmiddle>L=EDnea Select input<BR><FONT =
+size=3D1>(Cuando est=E1=20
+            inactiva, obliga a la<BR>impresora a salir de =
+l=EDnea)</FONT></TD></TR>
+        <TR>
+          <TD align=3Dmiddle>18 ~ 25</TD>
+          <TD align=3Dmiddle>-</TD>
+          <TD align=3Dmiddle>-</TD>
+          <TD align=3Dmiddle>Tierra =
+el=E9ctrica</TD></TR></TBODY></TABLE>
+      <P align=3Dcenter><B>Tabla 1: Configuraci=F3n del puerto paralelo=20
+      est=E1ndar</B></P>
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Observe que el =
+puerto=20
+      paralelo tiene 12 l=EDneas de salida (8 l=EDneas de datos, strobe, =
+autofeed,=20
+      init, y select input) y 5 de entrada (acknowledge, busy, falta de =
+papel,=20
+      select y error). El est=E1ndar IEEE 1284 define cinco modos de=20
+operaci=F3n:</P>
+      <OL>
+        <LI>Modo compatible=20
+        <LI>Modo nibble=20
+        <LI>Modo byte=20
+        <LI>Modo EPP, puerto paralelo ampliado=20
+        <LI>Modo ECP, puerto de capacidad extendida </LI></OL>
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El objetivo del =
+est=E1ndar es=20
+      dise=F1ar nuevos dispositivos que sean totalmente compatibles con =
+el puerto=20
+      paralelo est=E1ndar (SPP) definido originalmente por la IBM (en =
+=E9ste=20
+      art=EDculo tratar=E9 solamente el modo compatible). Hay tres =
+direcciones de=20
+      E/S asociadas con un puerto paralelo de la PC, =E9stas direcciones =
+
+      pertenecen al <B>registro de datos</B>, el <B>registro de =
+estado</B> y el=20
+      <B>registro de control</B>. El <I>registro de datos</I> es un =
+puerto de=20
+      lectura-escritura de ocho bits. Leer el registro de datos (en la =
+modalidad=20
+      unidireccional) retorna el =FAltimo valor escrito en el registro =
+de datos.=20
+      Los registros de control y estado proveen la interface a las otras =
+l=EDneas=20
+      de E/S. La distribuci=F3n de las diferentes se=F1ales para cada =
+uno de los=20
+      tres registros de un puerto paralelo esta dada en las siguientes=20
+      tablas:</P>
+      <TABLE border=3D1 width=3D"100%">
+        <TBODY>
+        <TR>
+          <TD>
+            <CENTER><B>Direcci=F3n</B></CENTER></TD>
+          <TD>
+            <CENTER><B>Nombre</B></CENTER></TD>
+          <TD>
+            <CENTER><B>Lectura/Escritura</B></CENTER></TD>
+          <TD>
+            <CENTER><B>Bit #</B></CENTER></TD>
+          <TD>
+            <CENTER><B>Propiedades</B></CENTER></TD></TR>
+        <TR>
+          <TD vAlign=3Dtop rowSpan=3D8>
+            <CENTER>Base + 0</CENTER></TD>
+          <TD vAlign=3Dtop rowSpan=3D8>
+            <CENTER>Puerto de datos</CENTER></TD>
+          <TD vAlign=3Dtop rowSpan=3D8>
+            <CENTER>Escritura</CENTER></TD>
+          <TD>
+            <CENTER>Bit 7</CENTER></TD>
+          <TD>
+            <CENTER>Dato 7</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 6</CENTER></TD>
+          <TD>
+            <CENTER>Dato 6</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 5</CENTER></TD>
+          <TD>
+            <CENTER>Dato 5</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 4</CENTER></TD>
+          <TD>
+            <CENTER>Dato 4</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 3</CENTER></TD>
+          <TD>
+            <CENTER>Dato 3</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 2</CENTER></TD>
+          <TD>
+            <CENTER>Dato 2</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 1</CENTER></TD>
+          <TD>
+            <CENTER>Dato 1</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 0</CENTER></TD>
+          <TD>
+            <CENTER>Dato 0</CENTER></TD></TR></TBODY></TABLE>
+      <P align=3Dcenter><B>Tabla 2: Registro de datos</B></P>
+      <TABLE border=3D1 width=3D"100%">
+        <TBODY>
+        <TR>
+          <TD>
+            <CENTER><B>Direcci=F3n</B></CENTER></TD>
+          <TD>
+            <CENTER><B>Nombre</B></CENTER></TD>
+          <TD>
+            <CENTER><B>Lectura/Escritura</B></CENTER></TD>
+          <TD>
+            <CENTER><B>Bit #</B></CENTER></TD>
+          <TD>
+            <CENTER><B>Propiedades</B></CENTER></TD></TR>
+        <TR>
+          <TD vAlign=3Dtop rowSpan=3D8>
+            <CENTER>Base + 1</CENTER></TD>
+          <TD vAlign=3Dtop rowSpan=3D8>
+            <CENTER>Puerto de estado</CENTER></TD>
+          <TD vAlign=3Dtop rowSpan=3D8>
+            <CENTER>S=F3lo Lectura</CENTER></TD>
+          <TD>
+            <CENTER>Bit 7</CENTER></TD>
+          <TD>
+            <CENTER>Busy</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 6</CENTER></TD>
+          <TD>
+            <CENTER>Acknowledge</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 5</CENTER></TD>
+          <TD>
+            <CENTER>Falta de papel</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 4</CENTER></TD>
+          <TD>
+            <CENTER>Select In</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 3</CENTER></TD>
+          <TD>
+            <CENTER>Error</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 2</CENTER></TD>
+          <TD>
+            <CENTER>IRQ (Not)</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 1</CENTER></TD>
+          <TD>
+            <CENTER>Reservado</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 0</CENTER></TD>
+          <TD>
+            <CENTER>Reservado</CENTER></TD></TR></TBODY></TABLE>
+      <P align=3Dcenter><B>Tabla 3: Registro de estado</B></P>
+      <TABLE border=3D1 width=3D"100%">
+        <TBODY>
+        <TR>
+          <TD>
+            <CENTER><B>Direcci=F3n</B></CENTER></TD>
+          <TD>
+            <CENTER><B>Nombre</B></CENTER></TD>
+          <TD>
+            <CENTER><B>Lectura/Escritura</B></CENTER></TD>
+          <TD>
+            <CENTER><B>Bit #</B></CENTER></TD>
+          <TD>
+            <CENTER><B>Propiedades</B></CENTER></TD></TR>
+        <TR>
+          <TD vAlign=3Dtop rowSpan=3D8>
+            <CENTER>Base + 2</CENTER></TD>
+          <TD vAlign=3Dtop rowSpan=3D8>
+            <CENTER>Puerto de control</CENTER></TD>
+          <TD vAlign=3Dtop rowSpan=3D8>
+            <CENTER>Lectura/Escritura</CENTER></TD>
+          <TD>
+            <CENTER>Bit 7</CENTER></TD>
+          <TD>
+            <CENTER>No usado</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 6</CENTER></TD>
+          <TD>
+            <CENTER>No usado</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 5</CENTER></TD>
+          <TD>
+            <CENTER>Permite puerto<BR>bidireccional</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 4</CENTER></TD>
+          <TD>
+            <CENTER>Permite IRQ a<BR>trav=E9s de=20
+            la<BR>l=EDnea<BR>acknowledge</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 3</CENTER></TD>
+          <TD>
+            <CENTER>Selecciona<BR>impresora</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 2</CENTER></TD>
+          <TD>
+            <CENTER>Inicializa<BR>impresora</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 1</CENTER></TD>
+          <TD>
+            <CENTER>Nueva l=EDnea<BR>autom=E1tica</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>Bit 0</CENTER></TD>
+          <TD>
+            <CENTER>Strobe</CENTER></TD></TR></TBODY></TABLE>
+      <P align=3Dcenter><B>Tabla 4: Registro de control</B></P>
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Una PC soporta =
+hasta tres=20
+      puertos paralelo separados, por tanto puede haber hasta tres =
+juegos de=20
+      registros en un sistema en un momento dado. Existen tres =
+<B>direcciones=20
+      base</B> para el puerto paralelo asociadas con tres posibles =
+puertos=20
+      paralelo: 0x3BCh, 0x378h y 0x278h, nos referimos a =E9stas como =
+las=20
+      direcciones base para el puerto <B>LPT1</B>, <B>LPT2</B> y =
+<B>LPT3</B>,=20
+      respectivamente. El registro de datos se localiza siempre en la =
+direcci=F3n=20
+      base de un puerto paralelo, el registro de estado aparece en la =
+direcci=F3n=20
+      base + 1, y el registro de control aparece en la direcci=F3n base =
++ 2. Por=20
+      ejemplo, para un puerto LPT2 localizado en 0x378h, =E9sta es la =
+direcci=F3n=20
+      del registro de datos, al registro de estado le corresponde la =
+direcci=F3n=20
+      0x379h y su respectivo registro de control est=E1 en la =
+direcci=F3n 0x37Ah.=20
+      Cuando la PC se enciende el BIOS ejecuta una rutina para =
+determinar el=20
+      n=FAmero de puertos presentes en el sistema asignando la etiqueta =
+LPT1 al=20
+      primer puerto localizado, si existen m=E1s puertos entonces se =
+asignar=E1n=20
+      consecutivamente las etiquetas LPT2 y LPT3 de acuerdo a la =
+siguiente=20
+      tabla:</P>
+      <CENTER>
+      <TABLE border=3D1 width=3D"80%">
+        <TBODY>
+        <TR>
+          <TD width=3D"40%"><B>
+            <CENTER>Direcci=F3n inicial</CENTER><B></B></B></TD>
+          <TD width=3D"60%"><B>
+            <CENTER>Funci=F3n</CENTER><B></B></B></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>0000:0408</CENTER></TD>
+          <TD>
+            <CENTER>Direcci=F3n base para LPT1</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>0000:040A</CENTER></TD>
+          <TD>
+            <CENTER>Direcci=F3n base para LPT2</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>0000:040C</CENTER></TD>
+          <TD>
+            <CENTER>Direcci=F3n base para LPT3</CENTER></TD></TR>
+        <TR>
+          <TD>
+            <CENTER>0000:040E</CENTER></TD>
+          <TD>
+            <CENTER>Direcci=F3n base para =
+LPT4</CENTER></TD></TR></TBODY></TABLE>
+      <P align=3Dcenter><B>Tabla 5: Direcciones base en el =
+BIOS</B></P></CENTER>
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para trabajar con =
+el puerto=20
+      paralelo necesitamos en primer lugar conocer la direcci=F3n base =
+asignada=20
+      por el BIOS (estamos hablando de una PC compatible con IBM), =
+podemos=20
+      utilizar un programa llamado <B>Debug.exe</B> que nos indique =
+la(s)=20
+      direcci=F3n(es) asignada(s): en la plataforma Windows vamos al =
+men=FA=20
+      <I>inicio</I>, seleccionamos <I>programas</I> y luego =
+<I>MS-DOS</I> para=20
+      abrir una ventana de <I>S=EDmbolo de MS-DOS</I> y aqu=ED podemos =
+introducir=20
+      los comandos indicados m=E1s abajo. Si se trabaja en ambiente DOS =
+basta con=20
+      teclear en la l=EDnea de comandos la palabra <B>debug</B>, el =
+programa=20
+      responde colocando un signo de menos <B>-</B> en donde tecleamos =
+sin dejar=20
+      espacios en blanco <B>d040:08L8</B> y presionamos la tecla =
+<I>entrar</I>,=20
+      entonces el programa <I>debug.exe</I> nos indica en una serie de =
+n=FAmeros=20
+      la(s) direcci=F3n(es) para el (los) puerto(s) paralelo(s) =
+disponibles en=20
+      nuestro sistema, la siguiente imagen muestra el resultado obtenido =
+en mi=20
+      m=E1quina:</P><IMG alt=3D"Ejecutando Debug.exe en la l=EDnea de =
+comandos"=20
+      src=3D"http://www.modelo.edu.mx/univ/virtech/imagen/para1.gif" =
+width=3D572=20
+      height=3D359>=20
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Se puede observar =
+una serie=20
+      de n=FAmeros de dos d=EDgitos (ocho en total), se trata del =
+volcado de memoria=20
+      que empieza en la direcci=F3n 40:0008h. Los primeros seis pares de =
+n=FAmeros=20
+      representn las direcciones base para los puertos paralelo =
+instalados, en=20
+      la imagen de arriba se aprecia que el =FAnico puerto paralelo de =
+mi m=E1quina=20
+      est=E1 en la direcci=F3n 0x378h (78 03). Los n=FAmeros est=E1n =
+invertidos porque=20
+      Intel almacena tal informaci=F3n en un formato de "byte de bajo =
+orden - byte=20
+      de alto orden". Una vez que obtenemos la informaci=F3n deseada =
+cerramos el=20
+      programa <I>Debug.exe</I> simplemente tecleando la letra <B>q</B> =
+y=20
+      presionando la tecla <I>entrar</I>. Para cerrar la ventana de =
+<I>S=EDmbolo=20
+      de MS-DOS</I> tecleamos la palabra <B>exit</B> y presionamos la =
+tecla=20
+      <I>entrar</I>.</P>
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Por supuesto, =
+tambi=E9n=20
+      podemos conocer la direcci=F3n asignada al puerto paralelo =
+utilizando un=20
+      programa, faltaba m=E1s, el c=F3digo es el siguiente:</P>
+      <TABLE>
+        <TBODY>
+        <TR>
+          <TD><PRE><FONT color=3D#000080>
+/**********************************************************
+*  puerto1.c                                              *
+*  (c)Virgilio G=F3mez Negrete                              *
+*  Determina la direccion del puerto paralelo             *
+**********************************************************/
+
+#include &lt;stdio.h&gt;
+#include &lt;dos.h&gt;
+
+int main()
+{
+    unsigned int __far *puntero_a_direccion;
+    int i;
+
+    puntero_a_direccion=3D(unsigned int __far *)0x00000408;
+
+    for (i=3D0; i&lt;3; i++)
+    {
+        if (*puntero_a_direccion =3D=3D 0)
+        printf("No se encontro puerto asignado a LPT%d \n", i+1);
+        else
+        printf("La direccion asignada a LPT%d es 0x%Xh\n",
+          i+1, *puntero_a_direccion);
+        puntero_a_direccion++;
+    }
+
+    return 0;
+}
+</FONT></PRE></TD></TR></TBODY></TABLE>
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El programa es =
+muy=20
+      sencillo, necesitamos un puntero que se=F1ale a la ubicaci=F3n de =
+memoria que=20
+      almacena la informaci=F3n para las diferentes direcciones =
+asignadas al=20
+      puerto paralelo, lo llamamos <B>puntero_a_direccion</B>, =E9ste =
+puntero debe=20
+      ser de al menos dos bytes, por =E9sta raz=F3n se declara como de =
+tipo=20
+      <B>unsigned int __far</B>. Es importante que Usted verifique en la =
+
+      documentaci=F3n de su compilador la manera precisa para utilizar =
+la palabra=20
+      clave <I>far</I>, =E9sta puede ser simplemente la palabra como tal =
+=F3 bi=E9n=20
+      puede llevar uno (<I>_far</I>) o dos guiones bajos (<I>__far</I>), =
+
+      aseg=FArese de utilizar la forma correcta =F3 el programa no =
+funcionar=E1. Creo=20
+      que con lo explicado arriba el funcionamiento del programa=20
+      <I>puerto1.c</I> no presenta problema alguno.</P>
+      <P align=3Dright><A=20
+      =
+href=3D"http://www.modelo.edu.mx/univ/virtech/circuito/paralelo.htm#super=
+ior">Volver=20
+      al principio</A></P><IMG alt=3D"Hola mundo"=20
+      src=3D"http://www.modelo.edu.mx/univ/virtech/imagen/linea.gif" =
+width=3D620=20
+      height=3D1>=20
+      <H1>Interfaz para el puerto paralelo<A =
+name=3Dcuatro>&nbsp;</A></H1>
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Actualmente, la =
+mayor=EDa de=20
+      los puertos instalados en las computadoras son de tipo multimodal=20
+      configurables a trav=E9s del BIOS de la m=E1quina, en =E9ste =
+art=EDculo me refiero=20
+      expresamente al modo <B>Normal (SPP)</B>, adem=E1s de =E9ste =
+est=E1n las=20
+      opciones <B>Bidireccional</B>, <B>EPP versi=F3n 1.7</B>, <B>EPP =
+versi=F3n=20
+      1.9</B> y <B>ECP</B> principalmente. El modo de operaci=F3n =
+<I>Normal</I> es=20
+      el m=E1s elemental y solamente permite la escritura en las =
+l=EDneas de datos,=20
+      patitas 2 a la 9 del conector DB-25 del puerto paralelo de la =
+PC.</P>
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El=E9ctricamente, =
+el puerto=20
+      paralelo entrega se=F1ales TTL y como tal, teoricamente, se le =
+puede=20
+      conectar cualquier dispositivo que cumpla con los niveles de =
+voltaje=20
+      espec=EDficos de la l=F3gica TTL, sin embargo el hardware del =
+puerto paralelo=20
+      est=E1 muy limitado en cuanto a su capacidad de manejo de =
+corriente, por=20
+      =E9sta raz=F3n se debe ser muy cuidadoso con el manejo de las =
+se=F1ales del=20
+      puerto, un corto circuito puede da=F1ar permanentemente la tarjeta =
+madre de=20
+      la PC. Para disminuir lo m=E1s posible el riesgo de da=F1os al =
+puerto=20
+      utilizamos un circuito integrado <B>74LS244</B> como etapa =
+separadora y al=20
+      mismo tiempo mejoramos la capacidad de manejo de corriente, de =
+esta forma=20
+      podemos conectar una serie de diodos emisores de luz (LED) que nos =
+
+      indiquen la actividad en las l=EDneas de datos del puerto =
+paralelo. El=20
+      circuito se detalla en el siguiente diagrama:</P><IMG=20
+      alt=3D"Interfaz para el puerto paralelo"=20
+      src=3D"http://www.modelo.edu.mx/univ/virtech/imagen/para2.gif" =
+width=3D491=20
+      height=3D521>=20
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Por cada l=EDnea =
+de entrada=20
+      que tomamos directamente del puerto paralelo existe una etapa=20
+      amplificadora-separadora dentro del circuito integrado 74LS244 que =
+nos=20
+      permite trabajar con una tasa de entrega de corriente suficiente =
+para=20
+      desplegar en los diodos emisores de luz la informaci=F3n escrita =
+en las=20
+      l=EDneas de datos del puerto. Adem=E1s es posible habilitar =F3 =
+deshabilitar el=20
+      despliegue del nibble de orden inferior =F3 superior del byte =
+escrito en el=20
+      puerto. Colocando en un nivel l=F3gico alto la patita 1 del CI =
+74LS244=20
+      inhabilitamos el despliegue del nibble de orden bajo, un nivel =
+l=F3gico alto=20
+      en la patita 19 evita el despliegue del nibble de orden alto. Para =
+
+      comodidad, conecto las patitas 1 y 19 permanentemente a tierra de =
+tal=20
+      manera que sea posible visualizar la actividad en los diodos =
+emisores de=20
+      luz (LED). En el diagrama se especifican con n=FAmeros las =
+correspondientes=20
+      patitas del conector DB-25. Obviamente se requiere de una fuente =
+regulada=20
+      de 5 Voltios para operar =E9ste circuito, adem=E1s los siguientes=20
+      materiales:</P>
+      <UL>
+        <LI>1. Circuito Integrado TTL 74LS244.=20
+        <LI>8. Diodos Emisores de Luz.=20
+        <LI>8. Resistencias de 220 Ohms, 1/2 Watt.=20
+        <LI>1. Cable y conector para el puerto paralelo. </LI></UL>
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naturalmente lo =
+m=E1s=20
+      recomendable es probar el correcto funcionamiento del circuito=20
+      <B>antes</B> de conectarlo al puerto paralelo de la PC. Ensamble =
+el=20
+      circuito, preferentemente en un circuito impreso, y con=E9ctelo a =
+una fuente=20
+      regulada de 5 Voltios, conecte temporalmente un extremo de una =
+resistencia=20
+      de 10,000 Ohms a una l=EDnea de entrada, el resto de las l=EDneas =
+de entrada=20
+      con=E9ctelas a tierra. El otro extremo de la resistencia =
+con=E9ctelo=20
+      directamente al borne positivo de la fuente de alimentaci=F3n para =
+inducir=20
+      una se=F1al TTL alta, el respectivo LED debe encender. Con un =
+trozo de=20
+      alambre conectado a Tierra, toque temporalemente el extremo de la=20
+      resistencia que est=E1 conectado a la l=EDnea de entrada para =
+inducir una=20
+      se=F1al TTL de l=F3gica baja, el LED se debe apagar. Repita =E9sta =
+operaci=F3n=20
+      para cada una de las ocho l=EDneas de entrada. Una vez que ha =
+verificado el=20
+      correcto funcionamiento del circuito est=E1 listo para conectarlo =
+al puerto=20
+      paralelo de la PC.</P>
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En primer lugar =
+apague la=20
+      computadora y el circuito. Conecte el cable al puerto paralelo=20
+      asegur=E1ndose que el conector est=E9 firme en su sitio. Encienda =
+el circuito=20
+      y por =FAltimo encienda la computadora, por regla general, el =
+circuito de=20
+      restablecimiento de la computadora coloca inicialmente en las =
+l=EDneas de=20
+      datos del puerto paralelo un valor igual a 0x0h, por lo tanto =
+todos los=20
+      diodos deben estar apagados una vez que la computadora ha =
+terminado su=20
+      proceso de arranque, sin embargo, si alg=FAn diodo permanece =
+encendido =E9sto=20
+      no indica una condici=F3n de falla, es responsabilidad del =
+software que=20
+      Usted escriba para controlar el puerto inicializarlo con un valor =
+adecuado=20
+      antes de realizar cualquier otra operaci=F3n.</P>
+      <P align=3Dright><A=20
+      =
+href=3D"http://www.modelo.edu.mx/univ/virtech/circuito/paralelo.htm#super=
+ior">Volver=20
+      al principio</A></P><IMG alt=3D"Hola mundo"=20
+      src=3D"http://www.modelo.edu.mx/univ/virtech/imagen/linea.gif" =
+width=3D620=20
+      height=3D1>=20
+      <H1>Escribiendo datos al puerto paralelo<A =
+name=3Dcinco>&nbsp;</A></H1>
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Con ocho bits =
+podemos=20
+      escribir en el puerto un total de 256 valores diferentes, cada uno =
+de=20
+      =E9stos representa un byte de informaci=F3n y cada byte puede =
+representar una=20
+      acci=F3n concreta que nosotros podemos definir de acuerdo a =
+nuestras=20
+      necesidades. En =E9ste art=EDculo el objetivo es entender c=F3mo =
+trabajar con el=20
+      puerto paralelo, por lo tanto hagamos un programa que nos permita =
+escribir=20
+      un n=FAmero cualquiera entre 0 y 255 de tal manera que sea posible =
+
+      visualizar el valor en formato binario. En primer lugar consulte =
+la=20
+      documentaci=F3n de su compilador para verificar la correcta =
+sint=E1xis de la=20
+      funci=F3n que nos sirve para escribir en el puerto, en el caso =
+espec=EDfico de=20
+      Symantec C++, dicha funci=F3n es <B>outp( )</B>. =C9sta funci=F3n =
+requiere dos=20
+      par=E1metros, el primero de tipo <I>unsigned int</I> que =
+especifica la=20
+      direcci=F3n del puerto paralelo, y el segundo de tipo <I>char</I> =
+que=20
+      especifica el valor a escribir en las l=EDneas de datos de puerto. =
+Una=20
+      t=EDpica llamada a la funci=F3n <I>outp( )</I> se parece a =
+=E9sto:</P>
+      <TABLE>
+        <TBODY>
+        <TR>
+          <TD><PRE><FONT color=3D#000080>
+outp(0x378, 65);
+</FONT></PRE></TD></TR></TBODY></TABLE>
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Se aprecia la =
+facilidad de=20
+      manejo de la funci=F3n, aunque diferentes compiladores dan a sus =
+respectivas=20
+      funciones nombres diferentes, la mec=E1nica es la misma, se =
+requieren dos=20
+      par=E1metros, la direcci=F3n del puerto y el valor a escribir en =
+el puerto.=20
+      Estudie el siguiente c=F3digo:</P>
+      <TABLE>
+        <TBODY>
+        <TR>
+          <TD><PRE><FONT color=3D#000080>
+/**********************************************************
+*  puerto2.c                                              *
+*  Escribe datos al puerto paralelo de la PC              *
+*  (c)1999, Virgilio G=F3mez Negrete                        *
+**********************************************************/
+
+#include &lt;stdio.h&gt;
+#include &lt;dos.h&gt;
+
+int puerto(int direcc);
+int seleccion;
+
+int main()
+{
+    unsigned int __far *puntero_a_direccion;
+    int i, direccion[3]=3D{0,0,0}, disponible[3]=3D{0,0,0};
+
+    puntero_a_direccion =3D (unsigned int __far *)0x00000408;
+
+    printf("Seleccione el puerto:\n");
+    /* =BFCuantos puertos existen? */
+    for (i=3D0; i&lt;3; i++)
+    {
+        if (*puntero_a_direccion =3D=3D 0)
+        printf("Puerto LPT%d...............no disponible\n", i+1);
+        else
+        {
+            disponible[i] =3D 1;
+            direccion[i] =3D *puntero_a_direccion;
+            printf("Puerto LPT%d...............%d\n", i+1, i+1);
+        }
+        puntero_a_direccion++;
+    }
+    printf("Salir del programa........0\n");
+    scanf("%d", &amp;seleccion);
+
+    do
+    {
+        switch(seleccion)
+        {
+            case 0:/* Salir del programa */
+            printf("Adios!!!\n");
+            return 0;
+            break;
+
+            case 1:/* Puerto LPT1 */
+            if(disponible[0]=3D=3D1)
+            puerto(direccion[0]);
+            else
+            {
+                printf("ERROR: PUERTO NO DISPONIBLE\n");
+                return 0;
+            }
+            break;
+
+            case 2:/* Puerto LPT2 */
+            if(disponible[1]=3D=3D1)
+            puerto(direccion[1]);
+            else
+            {
+                printf("ERROR: PUERTO NO DISPONIBLE\n");
+                return 0;
+            }
+            break;
+
+            case 3:/* Puerto LPT3 */
+            if(disponible[2]=3D=3D1)
+            puerto(direccion[2]);
+            else
+            {
+                printf("ERROR: PUERTO NO DISPONIBLE\n");
+                return 0;
+            }
+            break;
+
+            default:
+            printf("ERROR: OPCION INCORRECTA!\n");
+            break;
+        }
+        if(seleccion!=3D0)
+        {
+            printf("Seleccione otra opcion\n");
+            scanf("%d", &amp;seleccion);
+        }
+    }
+    while(seleccion!=3D0);
+
+    return 0;
+}
+
+int puerto(int direcc)
+{
+    unsigned char valor; /* Solo valores entre 0 y 255 */
+
+    printf("Ahora puede escribir cualquier valor\n");
+    printf("entre 1 y 255, 0 para terminar el programa\n");
+    do
+    {
+        printf("Valor al puerto?\n");
+        scanf("%d", &amp;valor);
+        outp(direcc, valor);
+        printf("Se ha escrito %d al puerto\n", valor);
+    }
+    while(valor!=3D0);
+
+    return seleccion=3D0;
+}
+</FONT></PRE></TD></TR></TBODY></TABLE>
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El programa =
+determina el=20
+      n=FAmero de puertos paralelo instalados en la computadora y =
+almacena sus=20
+      respectivas direcciones en el arreglo llamado <B>direccion[i]</B>, =
+en caso=20
+      de encontrarse una direcci=F3n v=E1lida adem=E1s se establece en 1 =
+el valor del=20
+      arreglo llamado <B>disponible[i]</B> simplemente como una medida =
+de=20
+      seguridad adicional. Como resultado de =E9stas acciones el =
+programa=20
+      despliega un men=FA basado en los puertos encontrados, en este =
+punto Usted=20
+      puede seleccionar, en caso de que disponga de m=E1s de un puerto, =
+el puerto=20
+      en donde est=E1 conectado el circuito mostrado en el diagrama de =
+arriba.</P>
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Una vez =
+seleccionado el=20
+      puerto Usted puede escribir un valor cualquiera comprendido entre =
+0 y 255.=20
+      Independientemente del puerto seleccionado toda la funcionalidad =
+del=20
+      programa est=E1 encapsulada en la funci=F3n de tipo <I>int</I> =
+llamada=20
+      <B>puerto( )</B> a la cual se le pasa un =FAnico par=E1metro que =
+es la=20
+      direcci=F3n del puerto seleccionado. La funci=F3n est=E1 =
+codificada de tal forma=20
+      que al escribir un 0 el programa termina, de =E9sta manera al =
+cerrar el=20
+      programa las l=EDneas de datos del puerto paralelo est=E1n todas =
+en un nivel=20
+      l=F3gico bajo. =C9ste programa y el circuito asociado son =FAtiles =
+para entender=20
+      de forma visual la forma de representar valores en formato =
+binario, adem=E1s=20
+      establece las bases de trabajo para otros proyectos de control =
+basados en=20
+      computadora. Disfrute la experiencia.</P>
+      <P align=3Dright><A=20
+      =
+href=3D"http://www.modelo.edu.mx/univ/virtech/circuito/paralelo.htm#super=
+ior">Volver=20
+      al principio</A></P><IMG alt=3D"Hola mundo"=20
+      src=3D"http://www.modelo.edu.mx/univ/virtech/imagen/linea.gif" =
+width=3D620=20
+      height=3D1>=20
+      <H1>Descargas<A name=3Dseis>&nbsp;</A></H1>
+      <P align=3Djustify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El diagrama =
+esquem=E1tico de=20
+      la interfaz para el puerto paralelo y el c=F3digo fuente de los =
+programas=20
+      mostrados en =E9ste art=EDculo est=E1n disponibles en el archivo =
+llamado <A=20
+      =
+href=3D"http://www.modelo.edu.mx/univ/virtech/activo/paralel1.zip">parale=
+l1.zip=20
+      (11.7 Kb.)</A></P>
+      <P align=3Dright><A=20
+      =
+href=3D"http://www.modelo.edu.mx/univ/virtech/circuito/paralelo.htm#super=
+ior">Volver=20
+      al principio</A></P><IMG alt=3D"Hola mundo"=20
+      src=3D"http://www.modelo.edu.mx/univ/virtech/imagen/linea.gif" =
+width=3D620=20
+      height=3D1> </FONT></FONT><BR>
+      <CENTER><FONT face=3DVerdana,Arial,Helvetica><FONT =
+color=3D#000000><FONT=20
+      size=3D2>=A9 1999 <A =
+href=3D"mailto:virgiliotech@yahoo.com">Virgilio G=F3mez=20
+      Negrete</A>, Derechos Reservados</FONT></FONT></FONT>=20
+  </CENTER></LI></TD></TR></TBODY></TABLE></P></BODY></HTML>
+
+------=_NextPart_000_0000_01CB5C00.EBA31500
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.modelo.edu.mx/univ/virtech/imagen/bandera2.gif
+
+R0lGODlhWAIUALMAAAAAAIAAAACAAICAAAAAgIAAgACAgMDAwICAgP8AAAD/AP//AAAA//8A/wD/
+/////ywAAAAAWAIUAAAE/lDISau9OOvNu/9gKI7bY55oqq5s675wLM90bd9tou987//AoHBILBqP
+yKRyKSQ5n9CodErt4K7YrHbL7b6Y4LB4TC6bidW0es1ui7zwuHxOp53v+Lx+n3T7/4CBTi4AhSmF
+ACaIi4sqjIeGKIiOjYSMjw+VipGQk5KVl5ieJ56jpJqUpi58rK2ur0yCsrO0gpaJn7ihqLu4mZyb
+vr+hLb2RvMCnqqLGwZ3Oyped0l+w1tfYrrXb3N1Qt8/Du9HUw+HixCvGupqqwaPU68rz0OiY7+k5
+2fv8/WDeAAMKvAAuVz0WpkAlg8cwGT2E7Rya42SolMRnCSkCi6jx4gl//iBDivQxsKRJbgXpuTMI
+6SE0VOLUebR3cJ5GczjBZWQnbFO0aatGCh2a7aTRo39ujbPH8YW8nCynlZt0TCJVXxWrLs21UKtT
+qzOJih3LCqnZs1SUpmtWM9XSlXB72cza09nVRBa3RlU5E6pLFWQDCy6DtrDhN8XYsvXrdi3Yukwb
++ozL7tdLuakyMz63F/Dgz6CRHB5NOkPKy5D/auYLmXLBciyzoo5xb/Zp1ShC694NpLTv37fz3rZc
+M29PmG2j1uZLXPhXvBu9tnwHVB/v67t/ax8dXHpiYQqPd8S6cvPD5aillze40yVH8n2xyw+9vT7a
+7jy3Ll42Pp/UeNE9eXaeVvp1NKBeT1k334Jj2efgUfjhAxtmfu0E23/MgOdaPcY5Jh5PXC1HoYIM
+ljjSgyiWFGFk7ojYVV3oYRgeZwey9taLbcWIjwwm9nhiikB6U8eQRBZp5A0+JulPkExuc+STUEZZ
+pJJUFtXklbZIqeWWXOJQ5ZewRAAAOw==
+
+------=_NextPart_000_0000_01CB5C00.EBA31500
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.modelo.edu.mx/univ/virtech/imagen/linea.gif
+
+R0lGODlhgAIBAPcAAAAAADMAAGYAAJkAAMwAAP8AAAAzADMzAGYzAJkzAMwzAP8zAABmADNmAGZm
+AJlmAMxmAP9mAACZADOZAGaZAJmZAMyZAP+ZAADMADPMAGbMAJnMAMzMAP/MAAD/ADP/AGb/AJn/
+AMz/AP//AAAAMzMAM2YAM5kAM8wAM/8AMwAzMzMzM2YzM5kzM8wzM/8zMwBmMzNmM2ZmM5lmM8xm
+M/9mMwCZMzOZM2aZM5mZM8yZM/+ZMwDMMzPMM2bMM5nMM8zMM//MMwD/MzP/M2b/M5n/M8z/M///
+MwAAZjMAZmYAZpkAZswAZv8AZgAzZjMzZmYzZpkzZswzZv8zZgBmZjNmZmZmZplmZsxmZv9mZgCZ
+ZjOZZmaZZpmZZsyZZv+ZZgDMZjPMZmbMZpnMZszMZv/MZgD/ZjP/Zmb/Zpn/Zsz/Zv//ZgAAmTMA
+mWYAmZkAmcwAmf8AmQAzmTMzmWYzmZkzmcwzmf8zmQBmmTNmmWZmmZlmmcxmmf9mmQCZmTOZmWaZ
+mZmZmcyZmf+ZmQDMmTPMmWbMmZnMmczMmf/MmQD/mTP/mWb/mZn/mcz/mf//mQAAzDMAzGYAzJkA
+zMwAzP8AzAAzzDMzzGYzzJkzzMwzzP8zzABmzDNmzGZmzJlmzMxmzP9mzACZzDOZzGaZzJmZzMyZ
+zP+ZzADMzDPMzGbMzJnMzMzMzP/MzAD/zDP/zGb/zJn/zMz/zP//zAAA/zMA/2YA/5kA/8wA//8A
+/wAz/zMz/2Yz/5kz/8wz//8z/wBm/zNm/2Zm/5lm/8xm//9m/wCZ/zOZ/2aZ/5mZ/8yZ//+Z/wDM
+/zPM/2bM/5nM/8zM///M/wD//zP//2b//5n//8z//////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwAAAAAgAIBAAAIKwA7CBxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihypMCAAOw==
+
+------=_NextPart_000_0000_01CB5C00.EBA31500
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.modelo.edu.mx/univ/virtech/imagen/db25.gif
+
+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
+ycte+vKXwAymMIdJzGIa85jIfEAEAAA7
+
+------=_NextPart_000_0000_01CB5C00.EBA31500
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.modelo.edu.mx/univ/virtech/imagen/para1.gif
+
+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
+qJ5adYgaqtjYqaSaiqZ6qlGaqqpKpazaqlf6qrCqpaA6qyQ3qrYaY7iaq+Aoq7yKi776q2karMLK
+prVarGN6rMhqpsS6rFm2q86qgM0arVYGrdTqYdZ6rRyWrdrKjsrarXh6YOAKcNw6rmE2reaKZOWa
+rhC2ruzqYO76rgwWr/KqYPRarwX5rfgKqfq6r5Par/5qqQAbsJk6sATLqQZ7sJ/6pwp7bPfasBGJ
+rhA7Yw87sflVsRZLYRKbsb2asBzrqh77sbEasiJLqwxbspqGsSjbkSS7ssC4sS4rrS0bs8M6szRr
+rCd7s6hqszorpzDbs/L4s0CbYSo7vLQfI7RGe648m7RRVrRM22lL+7SHirRSC69UW7XzerVYa69a
+u7X5mrNeS2ZOi7VjW7VlK7Vn+7Rpy7Rrm7Rta7RvO7RxC7Rz27N1q7N3e7N5S7N7G7N967J/u7KB
+i7KDW7KFK7KH+7GJy7GLm7GNa7GPO7GRC7GT27CVq7CXe7CZS7CbG7Cd669K9l6iO7o1NWWudbqo
+m7qqu7qs27quWy3sRbqyO7uHFFy0e7u4KzrLlbu827tUE7aBFgEAADs=
+
+------=_NextPart_000_0000_01CB5C00.EBA31500
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.modelo.edu.mx/univ/virtech/imagen/para2.gif
+
+R0lGODlh6wEJAvcAAAAAADMAAGYAAJkAAMwAAP8AAAAzADMzAGYzAJkzAMwzAP8zAABmADNmAGZm
+AJlmAMxmAP9mAACZADOZAGaZAJmZAMyZAP+ZAADMADPMAGbMAJnMAMzMAP/MAAD/ADP/AGb/AJn/
+AMz/AP//AAAAMzMAM2YAM5kAM8wAM/8AMwAzMzMzM2YzM5kzM8wzM/8zMwBmMzNmM2ZmM5lmM8xm
+M/9mMwCZMzOZM2aZM5mZM8yZM/+ZMwDMMzPMM2bMM5nMM8zMM//MMwD/MzP/M2b/M5n/M8z/M///
+MwAAZjMAZmYAZpkAZswAZv8AZgAzZjMzZmYzZpkzZswzZv8zZgBmZjNmZmZmZplmZsxmZv9mZgCZ
+ZjOZZmaZZpmZZsyZZv+ZZgDMZjPMZmbMZpnMZszMZv/MZgD/ZjP/Zmb/Zpn/Zsz/Zv//ZgAAmTMA
+mWYAmZkAmcwAmf8AmQAzmTMzmWYzmZkzmcwzmf8zmQBmmTNmmWZmmZlmmcxmmf9mmQCZmTOZmWaZ
+mZmZmcyZmf+ZmQDMmTPMmWbMmZnMmczMmf/MmQD/mTP/mWb/mZn/mcz/mf//mQAAzDMAzGYAzJkA
+zMwAzP8AzAAzzDMzzGYzzJkzzMwzzP8zzABmzDNmzGZmzJlmzMxmzP9mzACZzDOZzGaZzJmZzMyZ
+zP+ZzADMzDPMzGbMzJnMzMzMzP/MzAD/zDP/zGb/zJn/zMz/zP//zAAA/zMA/2YA/5kA/8wA//8A
+/wAz/zMz/2Yz/5kz/8wz//8z/wBm/zNm/2Zm/5lm/8xm//9m/wCZ/zOZ/2aZ/5mZ/8yZ//+Z/wDM
+/zPM/2bM/5nM/8zM///M/wD//zP//2b//5n//8z//////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwAAAAA6wEJAgAI/gBnCRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkyhTqlzJsqXLlzBjypxJs6bN
+mzhz6tzJs6fPn0CDCh1KtKjRo0iTNgQAwCDTk0yjRhX4tGBVpVizat2K8upAryPBfm1qlSzXs2jT
+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
+bvAOb/E+0oAAADs=
+
+------=_NextPart_000_0000_01CB5C00.EBA31500
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.modelo.edu.mx/univ/virtech/imagen/fondo.gif
+
+R0lGODlhsAQBAPcAAAAAAAAAMwAAZgAAmQAAzAAA/zMAADMAMzMAZjMAmTMAzDMA/2YAAGYAM2YA
+ZmYAmWYAzGYA/5kAAJkAM5kAZpkAmZkAzJkA/8wAAMwAM8wAZswAmcwAzMwA//8AAP8AM/8AZv8A
+mf8AzP8A/wAzAAAzMwAzZgAzmQAzzAAz/zMzADMzMzMzZjMzmTMzzDMz/2YzAGYzM2YzZmYzmWYz
+zGYz/5kzAJkzM5kzZpkzmZkzzJkz/8wzAMwzM8wzZswzmcwzzMwz//8zAP8zM/8zZv8zmf8zzP8z
+/wBmAABmMwBmZgBmmQBmzABm/zNmADNmMzNmZjNmmTNmzDNm/2ZmAGZmM2ZmZmZmmWZmzGZm/5lm
+AJlmM5lmZplmmZlmzJlm/8xmAMxmM8xmZsxmmcxmzMxm//9mAP9mM/9mZv9mmf9mzP9m/wCZAACZ
+MwCZZgCZmQCZzACZ/zOZADOZMzOZZjOZmTOZzDOZ/2aZAGaZM2aZZmaZmWaZzGaZ/5mZAJmZM5mZ
+ZpmZmZmZzJmZ/8yZAMyZM8yZZsyZmcyZzMyZ//+ZAP+ZM/+ZZv+Zmf+ZzP+Z/wDMAADMMwDMZgDM
+mQDMzADM/zPMADPMMzPMZjPMmTPMzDPM/2bMAGbMM2bMZmbMmWbMzGbM/5nMAJnMM5nMZpnMmZnM
+zJnM/8zMAMzMM8zMZszMmczMzMzM///MAP/MM//MZv/Mmf/MzP/M/wD/AAD/MwD/ZgD/mQD/zAD/
+/zP/ADP/MzP/ZjP/mTP/zDP//2b/AGb/M2b/Zmb/mWb/zGb//5n/AJn/M5n/Zpn/mZn/zJn//8z/
+AMz/M8z/Zsz/mcz/zMz/////AP//M///Zv//mf//zP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAANcALAAAAACwBAEA
+AAhJAF0JHEiwoMGDCBMqXMiwocOHC69JnEixosWLGDNq3Mixo8ePIEOKHEmypMmTKFOqXMmypcuX
+MGPKnEmzps2bOHPq3Mmzp8yAAAA7
+
+------=_NextPart_000_0000_01CB5C00.EBA31500
+Content-Type: text/css;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+Content-Location: http://www.modelo.edu.mx/univ/virtech/css/prograc.css
+
+BODY {
+	FONT-FAMILY: Verdana Normal,Arial
+}
+A {
+	COLOR: #000080; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: red; TEXT-DECORATION: underline
+}
+H1 {
+	FONT-FAMILY: Verdana Normal,Arial; FONT-SIZE: 22pt
+}
+H2 {
+	FONT-FAMILY: Verdana Normal,Arial; FONT-SIZE: 18pt
+}
+
+------=_NextPart_000_0000_01CB5C00.EBA31500--
